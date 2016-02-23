@@ -56,7 +56,10 @@ Overview
 
 Python Steam .desktop file manager
 
-* Free software: BSD license
+Finds desktop entries for games installed through Steam and adds the `Steam` category.
+Makes it possible to group the entries in some Desktop Environments.
+
+* Free software: GPL3 License
 
 Installation
 ============
