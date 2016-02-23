@@ -1,0 +1,14 @@
+[paths]
+source =
+   src/steamdesktop
+   */site-packages/steamdesktop
+
+[run]
+branch = True
+source = steamdesktop
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
